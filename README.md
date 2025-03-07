@@ -60,3 +60,6 @@ python manage.py runserver
 Go to the admin panel and create some posts: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 
 Then visit the blog homepage: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+# **Final Project Pink**
+[https://github.com/giorgiabes/django-blog-final](https://github.com/giorgiabes/django-blog-final)
